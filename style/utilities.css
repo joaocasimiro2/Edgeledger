@@ -48,6 +48,9 @@
     border: 1px solid #fff;
 }
 
+.img-margin{
+    margin: 30px;
+}
 
 /*Flex items*/
 
@@ -55,7 +58,7 @@
     display: flex;
     text-align: center;
     justify-content: center;
-    text-align: center;
+    align-items: center;
     height: 100%;
 }
 
